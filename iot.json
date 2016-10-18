@@ -1,0 +1,41 @@
+{
+	"nodes":
+	[
+	  {
+	    "id": 10,
+	    "name": "Router 1",
+	    "type": "Router",
+	    "parentid": 0,
+	    "status": "clear",
+	    "x": 39.90421,
+	    "y": 116.40739
+	  },
+	  {
+	    "id": 20,
+	    "name": "Router 2",
+	    "type": "Router",
+	    "parentid": 0,
+	    "status": "minor",
+	    "x": 55.75583,
+	    "y": 37.61730
+	  },
+	  {
+	    "id": 110,
+	    "name": "Sensor 1",
+	    "type": "Sensor",
+	    "parentid": 0,
+	    "status": "major",
+	    "x": 39.90421,
+	    "y": 116.40739
+	  },
+	  {
+	    "id": 120,
+	    "name": "Sensor 2",
+	    "type": "Sensor",
+	    "parentid": 0,
+	    "status": "unknown",
+	    "x": 55.75583,
+	    "y": 37.61730
+	  }
+	]
+}
